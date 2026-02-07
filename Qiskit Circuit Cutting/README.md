@@ -1,0 +1,2 @@
+Qiskit addons are a collection of modular tools for circuit cutting. 
+In this technique, a handful of gates and/or wires are cut, resulting in smaller circuits that are better suited for execution on hardware. The result of the original circuit can then be reconstructed
